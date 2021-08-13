@@ -1,0 +1,63 @@
+body{
+    background-image:url("rollsroyce.webp");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+.main{
+    height:400px;
+    align-content: center;
+    text-align: center;
+    margin:auto;
+    color:yellow;
+    
+}
+.top{
+    height: 150px;
+}
+
+.logo-image{
+    width:200px;
+    height: 150px;
+}
+
+header{
+    width: 100%;
+    display:flex;
+    align-items:center;
+    position:fixed;
+
+}
+
+ul{
+    list-style:none;
+    display:flex;
+    justify-content:space-around;
+    font-family: monotype corsiva;
+}
+
+nav{
+    width:100%;
+
+}
+.sign-up-page{
+    font-family:cursive;
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+    height:350px;
+}
+.sign-up-form{
+    text-align:center;
+    margin-bottom:20px;
+}
+.video{
+    align-content:center;
+    text-align:center;
+}
+
+.video-page{
+    height:400px;
+    align-content: center;
+}
